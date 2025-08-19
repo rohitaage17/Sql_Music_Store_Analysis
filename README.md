@@ -1,7 +1,7 @@
 # Sql_Music_Store_Analysis
 # 🎵 Music Store SQL Analysis
 
-This project contains SQL queries for analyzing the Music Store (Chinook) dataset in SQL Server (SSMS).
+This project contains SQL queries for analyzing the Music Store dataset in SQL Server (SSMS).
 
 ## 📂 Queries Included
 - `01_top_customers.sql` → Top 10 customers by spending
