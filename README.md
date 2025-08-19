@@ -10,6 +10,5 @@ This project contains SQL queries for analyzing the Music Store (Chinook) datase
 - `04_top_countries.sql` → Top revenue-generating countries
 
 ## 🚀 How to Use
-1. Import the Chinook DB into SQL Server
-2. Open the `.sql` files in SSMS
-3. Run queries to get insights
+1. Open the `.sql` files in SSMS
+2. Run queries to get insights
