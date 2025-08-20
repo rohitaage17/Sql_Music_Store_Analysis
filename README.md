@@ -4,10 +4,10 @@
 This project contains SQL queries for analyzing the Music Store dataset in SQL Server (SSMS).
 
 ## 📂 Queries Included
-- `01_top_customers.sql` → Top 10 customers by spending
-- `02_best_selling_artists.sql` → Best-selling artists
-- `03_revenue_by_genre.sql` → Revenue by music genre
-- `04_top_countries.sql` → Top revenue-generating countries
+- `01_top_customers` → Top 10 customers by spending
+- `02_best_selling_artists` → Best-selling artists
+- `03_revenue_by_genre` → Revenue by music genre
+- `04_top_countries` → Top revenue-generating countries
 
 ## 🚀 How to Use
 1. Open the `.sql` files in SSMS
